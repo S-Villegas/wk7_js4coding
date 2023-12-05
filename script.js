@@ -1,3 +1,5 @@
+// Su is learning githubs amazing tricks. 
+
 /*This is Q1-The array called ages*/
 let ages= [3, 9, 23, 64, 2, 8, 28, 93];
 console.log ("Ages:", ages);
