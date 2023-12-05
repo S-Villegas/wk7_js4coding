@@ -1,12 +1,9 @@
-// Su is learning githubs amazing tricks. 
-
 /*This is Q1-The array called ages*/
 let ages= [3, 9, 23, 64, 2, 8, 28, 93];
 console.log ("Ages:", ages);
 /*This is Q1a-subtracting value of-1st element in array from value of-last element in array. Which is 93-3=90*/
 let minusAge=ages[ages.length -1] -ages [0];
 console.log ("minusAge", minusAge);
-
 
 /* This is Q1b-added a new age-98 to thia array*/
 ages.push (98)
